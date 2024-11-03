@@ -12,5 +12,5 @@ Key Features:
 This project demonstrates how the SpeechSynthesisUtterance interface of the Web Speech API can be used to enhance accessibility and improve productivity by transforming typed notes into spoken words.
 
 <p align="center">
-<img src="./img/output.png" alt="voice notes" />
+<img src="./img/Output.png" alt="voice notes" />
 </p>
